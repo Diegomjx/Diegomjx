@@ -23,8 +23,8 @@
 </p>
 
 <!-- Skills Section -->
-<div style="float: right; margin-left: 20px;">
-    <h4 align="right">Learning:</h4>
+<div align="center">
+    <h2 align="center">Learning:</h2>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=js,html,css,sass,ts,python,ruby" />
         </br>
