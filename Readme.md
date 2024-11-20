@@ -1,8 +1,7 @@
-    <h2 align="center">Diegomjx</h2>  
-
+<h2 align="center">Diegomjx</h2>  
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
-    <div style="width: 60%;">
+<div style="width: 40%;">
         <p>
             <em>Welcome, Traveler.<br> 
             This repository chronicles my journey as a programmer and pentester. In the realm of Hack The Box, I face challenges where logic replaces swords, and every line of code is a step closer to victory. Each writeup is a testament to persistence, creativity, and skill.</em>
@@ -12,7 +11,7 @@
         </p>
 
 
-        <h4>Contact:</h4> 
+<h4>Contact:</h4> 
         <p > 
             <a href="https://twitter.com/YourTwitter" target="blank">
                 <img align="center" src="https://www.svgrepo.com/show/134540/twitter.svg" alt="Twitter" height="40" width="40" />
@@ -24,8 +23,7 @@
                 <img align="center" src="https://www.svgrepo.com/show/354057/medium-icon.svg" alt="Blog" height="40" width="40" />
             </a> 
         </p>
-
-        <!-- Writeups Section -->
+<!-- Writeups Section -->
         <h3>Writeups:</h3> 
         <ul> 
             <li>
@@ -34,8 +32,7 @@
                 </a>
             </li>  
         </ul> 
-
-        <!-- Tools Section -->
+<!-- Tools Section -->
         <h5>Weapons of Choice</h5>
         <ul> 
             <li><b>nmap:</b> Reconnaissance</li> 
@@ -45,16 +42,13 @@
             <li><b>Others:</b> Adaptable and versatile</li> 
         </ul>
     </div>
-
-    <!-- Right Container -->
+<!-- Right Container -->
     <div style="width: 48%; text-align: center;">
         <!-- GitHub Stats -->
         <img src="https://github-readme-stats.vercel.app/api?username=Diegomjx&show_icons=true&theme=dracula" width="100%">
-
-        <!-- Skills Section -->
+<!-- Skills Section -->
         <h2>Learning:</h2>
-        <p align="Right">
-            
+        <p align="Right">  
             <a href="https://skillicons.dev">
                 <img src="https://skillicons.dev/icons?i=js,html,css,sass,ts,python,ruby" />
             </br>
@@ -63,7 +57,6 @@
                 <img src="https://skillicons.dev/icons?i=github,java" />
             </a>
         </p>
-
         <!-- Language Stats -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegomjx&layout=compact&show_icons=true&theme=cobalt" width="80%">
     </div>
