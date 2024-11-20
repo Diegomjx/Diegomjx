@@ -25,6 +25,7 @@
 
 
 
+
 <!-- Writeups Section -->
 <h3 align="left">Writeups:</h3> 
 <ul> 
@@ -36,24 +37,24 @@
 </ul> 
 
 
-<!-- Skills Section -->
+
+
 <h3 align="right">Learning:</h3>
-    <p align="right"> 
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=js,html,css,sass,ts,python,ruby" />
-        </br>
-        <img src="https://skillicons.dev/icons?i=linux,postgres,postman,sqlite,rails,git,java" />
-        </a>
-    </p>
+
+
+<img  align="right" src="https://skillicons.dev/icons?i=js,html,css,sass,ts,python,ruby,linux,postgres,postman,sqlite,rails,git,java&perline=7" />
+
 <!-- Tools Section -->
-<h5>Weapons of Choice</h5>
-<ul> 
+<h5 align="left">Weapons of Choice</h5>
+<ul align="left"> 
     <li><b>nmap:</b> Reconnaissance</li> 
     <li><b>hashcat:</b> Breaking the unbreakable</li> 
     <li><b>netcat:</b> Command and control</li> 
     <li><b>Custom exploits and scripts:</b> Tailored for victory</li>
     <li><b>Others:</b> Adaptable and versatile</li> 
 </ul>
+
+<!-- Skills Section -->
 
 
 </br>
