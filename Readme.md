@@ -10,7 +10,6 @@
         <p>
             Whether writing scripts, crafting exploits, or debugging systems, I combine programming expertise with cybersecurity insights to solve complex problems. Equip your tools, and let's chase the root together.
         </p>
-
         <!-- Contact Section -->
         <h4>Contact:</h4> 
         <p > 
@@ -24,7 +23,6 @@
                 <img align="center" src="https://www.svgrepo.com/show/354057/medium-icon.svg" alt="Blog" height="40" width="40" />
             </a> 
         </p>
-
         <!-- Writeups Section -->
         <h3>Writeups:</h3> 
         <ul> 
@@ -34,7 +32,6 @@
                 </a>
             </li>  
         </ul> 
-
         <!-- Tools Section -->
         <h5>Weapons of Choice</h5>
         <ul> 
@@ -45,16 +42,13 @@
             <li><b>Others:</b> Adaptable and versatile</li> 
         </ul>
     </div>
-
     <!-- Right Container -->
     <div style="width: 48%; text-align: center;">
         <!-- GitHub Stats -->
         <img src="https://github-readme-stats.vercel.app/api?username=Diegomjx&show_icons=true&theme=dracula" width="100%">
-
         <!-- Skills Section -->
         <h2>Learning:</h2>
         <p align="Right">
-            
             <a href="https://skillicons.dev">
                 <img src="https://skillicons.dev/icons?i=js,html,css,sass,ts,python,ruby" />
             </br>
@@ -63,21 +57,17 @@
                 <img src="https://skillicons.dev/icons?i=github,java" />
             </a>
         </p>
-
         <!-- Language Stats -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegomjx&layout=compact&show_icons=true&theme=cobalt" width="80%">
     </div>
 </div>
-
 <!-- Quote Section -->
 <p align="center"><em>"Every system hides its crown; every hacker writes their fate."</em></p>
-
     <li><b>nmap:</b> Reconnaissance</li> 
     <li><b>hashcat:</b> Breaking the unbreakable</li> 
     <li><b>netcat:</b> Command and control</li> 
     <li><b>Custom exploits and scripts:</b> Tailored for victory</li>
     <li><b>Others:</b> Adaptable and versatile</li> 
 </ul>
-
 <p align="center"><em>"Every system hides its crown; every hacker writes their fate."</em></p>
 
