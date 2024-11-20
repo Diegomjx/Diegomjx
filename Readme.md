@@ -8,6 +8,7 @@
     Whether writing scripts, crafting exploits, or debugging systems, I combine programming expertise with cybersecurity insights to solve complex problems. Equip your tools, and let's chase the root together.
 </p>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegomjx&layout=compact&show_icons=true&theme=cobalt" width="280" />
 <!-- Contact Section -->
 <h4 align="left">Contact:</h4> 
 <p align="left"> 
@@ -22,17 +23,7 @@
     </a> 
 </p>
 
-<!-- Skills Section -->
-<div align="center">
-    <h2 align="center">Learning:</h2>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,html,css,sass,ts,python,ruby" />
-        </br>
-        <img src="https://skillicons.dev/icons?i=linux,postgres,postman,sqlite,rails,md,git" />
-        </br>
-        <img src="https://skillicons.dev/icons?i=github,java" />
-    </a>
-</div>
+
 
 <!-- Writeups Section -->
 <h3 align="left">Writeups:</h3> 
@@ -44,8 +35,18 @@
     </li>  
 </ul> 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegomjx&layout=compact&show_icons=true&theme=cobalt" width="280" />
 
+<!-- Skills Section -->
+<div style="float: right;">
+    <h3 align="center">Learning:</h3>
+    <p align="renter"> 
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=js,html,css,sass,ts,python,ruby" />
+        </br>
+        <img src="https://skillicons.dev/icons?i=linux,postgres,postman,sqlite,rails,git,java" />
+        </a>
+    </p>
+</div>
 <!-- Tools Section -->
 <h5>Weapons of Choice</h5>
 <ul> 
@@ -56,5 +57,7 @@
     <li><b>Others:</b> Adaptable and versatile</li> 
 </ul>
 
+
+</br>
 <!-- Quote Section -->
 <p align="center"><em>"Every system hides its crown; every hacker writes their fate."</em></p>
