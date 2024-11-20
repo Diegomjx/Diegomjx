@@ -39,7 +39,7 @@
 <!-- Skills Section -->
 <div style="float: right;">
     <h3 align="center">Learning:</h3>
-    <p align="renter"> 
+    <p align="right"> 
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=js,html,css,sass,ts,python,ruby" />
         </br>
