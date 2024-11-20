@@ -38,7 +38,7 @@
 
 <!-- Skills Section -->
 <div style="float: right;">
-    <h3 align="center">Learning:</h3>
+    <h3 align="right">Learning:</h3>
     <p align="right"> 
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=js,html,css,sass,ts,python,ruby" />
