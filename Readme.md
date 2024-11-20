@@ -16,21 +16,21 @@
         <p>
             Whether writing scripts, crafting exploits, or debugging systems, I combine programming expertise with cybersecurity insights to solve complex problems. Equip your tools, and let's chase the root together.
         </p>
+        
+### Contact
+ [![Twitter](https://www.svgrepo.com/show/134540/twitter.svg)](https://twitter.com/YourTwitter)
+[![LinkedIn](https://www.svgrepo.com/show/138936/linkedin.svg)](https://linkedin.com/in/YourLinkedIn)
+[![Blog](https://www.svgrepo.com/show/354057/medium-icon.svg)](https://yourpersonalblog.com)
 
-        ### Contact
-        [![Twitter](https://www.svgrepo.com/show/134540/twitter.svg)](https://twitter.com/YourTwitter)
-        [![LinkedIn](https://www.svgrepo.com/show/138936/linkedin.svg)](https://linkedin.com/in/YourLinkedIn)
-        [![Blog](https://www.svgrepo.com/show/354057/medium-icon.svg)](https://yourpersonalblog.com)
+### Writeups
+- [Chemistry HTB](https://github.com/Diegomjx/Hack-the-box-Writeups/tree/master/easy/ChemistryHTB)
 
-        ### Writeups
-        - [Chemistry HTB](https://github.com/Diegomjx/Hack-the-box-Writeups/tree/master/easy/ChemistryHTB)
-
-        ### Weapons of Choice
-        - **nmap:** Reconnaissance
-        - **hashcat:** Breaking the unbreakable
-        - **netcat:** Command and control
-        - **Custom exploits and scripts:** Tailored for victory
-        - **Others:** Adaptable and versatile
+### Weapons of Choice
+- **nmap:** Reconnaissance
+- **hashcat:** Breaking the unbreakable
+- **netcat:** Command and control
+- **Custom exploits and scripts:** Tailored for victory
+- **Others:** Adaptable and versatile
     </div>
 
     <!-- Right Container -->
