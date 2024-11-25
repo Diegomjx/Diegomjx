@@ -33,7 +33,12 @@
         <a href="https://github.com/Diegomjx/Hack-the-box-Writeups/tree/master/easy/ChemistryHTB">
             Chemistry HTB
         </a>
-    </li>  
+    </li> 
+    <li>
+        <a href="https://github.com/Diegomjx/Hack-the-box-Writeups/tree/master/easy/Sea">
+            Sea HTB
+        </a>
+    </li>
 </ul> 
 
 
