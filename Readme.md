@@ -20,7 +20,7 @@
     </a> 
     <a href="https://yourpersonalblog.com" target="blank">
         <img align="center" src="https://www.svgrepo.com/show/354057/medium-icon.svg" alt="Blog" height="40" width="40" />
-    </a> 
+    </a>
 </p>
 
 
@@ -42,6 +42,11 @@
     <li>
         <a href="https://github.com/Diegomjx/Nmap">
             Nmap
+        </a>
+    </li>
+    <li>
+        <a href="https://github.com/Diegomjx/Escape_Two">
+            Escape Two
         </a>
     </li>
 
