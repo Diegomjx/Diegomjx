@@ -45,7 +45,7 @@
         </a>
     </li>
     <li>
-        <a href="https://github.com/Diegomjx/Escape_Two">
+        <a href="https://github.com/Diegomjx/Hack-the-box-Writeups/tree/master/easy/Escape_Two">
             Escape Two
         </a>
     </li>
