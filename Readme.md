@@ -75,7 +75,8 @@
 <!-- PGP Keys -->
 <details>
   <summary>🔑 GPG Public Keys</summary>
-- [ F0F0 C607 76F6 1455 ](https://keybase.io/diegomjx/pgp_keys.asc?fingerprint=6CB7AEFB9CA4367C4F12BDC0F0F0C60776F61455)
+
+- [F0F0 C607 76F6 1455](https://keybase.io/diegomjx/pgp_keys.asc?fingerprint=6CB7AEFB9CA4367C4F12BDC0F0F0C60776F61455)
 
 </details> 
 
